@@ -1,0 +1,5 @@
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\Fruit.csprojAssemblyReference.cache
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\App.g.cs
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS_MarkupCompile.cache
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS.exe
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS.pdb

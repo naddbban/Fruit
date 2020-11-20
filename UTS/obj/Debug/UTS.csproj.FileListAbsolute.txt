@@ -1,0 +1,13 @@
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\MainWindow.g.cs
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\App.g.cs
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS_MarkupCompile.cache
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS_MarkupCompile.lref
+D:\nad\pemrograman lanjut\UTS\UTS\bin\Debug\UTS.exe
+D:\nad\pemrograman lanjut\UTS\UTS\bin\Debug\UTS.pdb
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\MainWindow.baml
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS.g.resources
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS.Properties.Resources.resources
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS.csproj.GenerateResource.cache
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS.exe
+D:\nad\pemrograman lanjut\UTS\UTS\obj\Debug\UTS.pdb
